@@ -20,3 +20,17 @@ header{
 img {
     max-width: 100%;
 }
+#tribute-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+}
+ul{
+    text-align: left;
+    text-decoration: none;
+}
+li{
+   margin: 1.5rem 0; 
+}
